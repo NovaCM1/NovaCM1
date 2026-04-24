@@ -12,3 +12,7 @@
 
 📢 **Status**
 🟢 Active and coding daily
+
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Focus](https://img.shields.io/badge/focus-gaming%20dashboard-blue)
+![Learning](https://img.shields.io/badge/learning-terminal%20%26%20scripting-orange)
