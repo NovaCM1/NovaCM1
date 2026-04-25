@@ -13,9 +13,8 @@
 📢 **Status**
 🟢 Active and coding daily
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Focus](https://img.shields.io/badge/focus-gaming%20dashboard-blue)
-![Learning](https://img.shields.io/badge/learning-terminal%20%26%20scripting-orange)
+![Status](https://img.shields.io/badge/status-active-brightgreen) ![Focus](https://img.shields.io/badge/focus-gaming%20dashboard-blue)
+![Learning](https://img.shields.io/badge/learning-terminal%20%26%20scripting-orange) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xPrzJjhnzA) [!
 
 
 ## 🌐 Socials:
